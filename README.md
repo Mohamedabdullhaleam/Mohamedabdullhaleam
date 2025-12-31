@@ -3,7 +3,7 @@
 <h4 align="center"><samp>Full-Stack Developer at AIM Technologies · Building scalable web apps from database to UI</samp></h4>
 
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+  <img width="400" src="[https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pvdHQ0bDl1NXdhb3hqd2ZnZHdhajFnY255ZnQybGlsd3RrZzhvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1C8bHHJturSx2/giphy.gif)">
 </p>
 
 <p align="center">
