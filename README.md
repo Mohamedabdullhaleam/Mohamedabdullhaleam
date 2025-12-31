@@ -1,23 +1,17 @@
-<div align="center">
-  
-# Mohamed Abdull-haleam
+<h1 align="center"><samp>Mohamed Abdull-haleam</samp></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;MERN+%7C+NestJS+%7C+Django;Building+scalable+systems)](https://git.io/typing-svg)
+<h4 align="center"><samp>Full-Stack Developer at AIM Technologies · Building scalable web apps from database to UI</samp></h4>
 
-<br>
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 
-Full-Stack Developer at **AIM Technologies** with 2+ years of experience.  
-I build modern web applications from database to UI.
+<p align="center">
+<a href="https://www.linkedin.com/in/mohamedabdullhaleam"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohamedabdullhaleam236@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/-mohamedabdullhaleam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedabdullhaleam)
-[![Gmail](https://img.shields.io/badge/-mohamedabdullhaleam236-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedabdullhaleam236@gmail.com)
-[![GitHub](https://img.shields.io/badge/-Mohamedabdullhaleam-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohamedabdullhaleam)
-
-</div>
-
-<br>
+---
 
 ## ⚙️ Backend
 
@@ -49,3 +43,16 @@ I build modern web applications from database to UI.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedabdullhaleam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedabdullhaleam&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedabdullhaleam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%"/>
+</p>
+
+<p align="center"><samp>Check out my repos ⬇️</samp></p>
