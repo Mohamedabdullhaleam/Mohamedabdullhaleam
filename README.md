@@ -1,132 +1,51 @@
 <div align="center">
+  
+# Mohamed Abdull-haleam
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6&height=250&section=header&text=Mohamed%20Abdull-haleam&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;MERN+%7C+NestJS+%7C+Django;Building+scalable+systems)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=800&lines=Full-Stack+Developer+%40+AIM+Technologies;Backend+Architect+%7C+Frontend+Craftsman;Building+Scalable%2C+Production-Ready+Systems" alt="Typing SVG" />
-</div>
+<br>
 
-<br/>
+Full-Stack Developer at **AIM Technologies** with 2+ years of experience.  
+I build modern web applications from database to UI.
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+<br>
 
-### 💼 Professional Summary
-
-**2+ Years** crafting enterprise-grade applications  
-🏢 **AIM Technologies** • Full-Stack Developer  
-🎓 **ITI Graduate** • Computer Engineering  
-⭐ **90% Excellent with Honors**  
-📍 **Cairo, Egypt**
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 Core Expertise
-
-✨ **Scalable Backend Architecture**  
-🎨 **Modern Frontend Development**  
-🔐 **API Design & Security**  
-☁️ **Cloud Infrastructure**  
-📊 **Database Optimization**
-
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/-mohamedabdullhaleam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedabdullhaleam)
+[![Gmail](https://img.shields.io/badge/-mohamedabdullhaleam236-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohamedabdullhaleam236@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Mohamedabdullhaleam-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mohamedabdullhaleam)
 
 </div>
 
----
+<br>
 
-<h2 align="center">⚡ Technology Arsenal</h2>
+## ⚙️ Backend
 
-<div align="center">
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-### 🔧 Backend Development
+## 🎨 Frontend
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### 💾 Database & Storage
+## 🗄️ Database
 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🎨 Frontend Development
+## 🔧 Tools
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ☁️ DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🛠️ Design & Tools
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-</div>
-
----
-
-<h2 align="center">🌟 Featured Highlights</h2>
-
-<div align="center">
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  🚀 Microservices Architecture    │  ⚡ Performance Optimization  │
-│  🔐 Authentication & Security     │  📈 Scalable System Design    │
-│  🎯 Clean Code Advocate           │  🧪 Test-Driven Development   │
-│  📱 Responsive UI/UX              │  🌐 RESTful & GraphQL APIs    │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<h2 align="center">📬 Let's Connect</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedabdullhaleam)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabdullhaleam236@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
-<br/>
-
-### 💡 Open to collaborations on innovative projects
-
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,6&height=120&section=footer)
-
-**⭐ If you find my work interesting, consider giving it a star!**
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
