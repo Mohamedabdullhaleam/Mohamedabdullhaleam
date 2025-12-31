@@ -3,13 +3,24 @@
 <h4 align="center"><samp>Full-Stack Developer at AIM Technologies · Building scalable web apps from database to UI</samp></h4>
 
 <p align="center">
-  <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohamedabdullhaleam"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:mohamedabdullhaleam236@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🏢 Working at **AIM Technologies** as Full-Stack MERN Developer
+- 🎓 ITI Graduate & Former Coding Instructor
+- 🚀 2+ years building production-ready web applications
+- 💡 Passionate about clean code, system design, and UX
+- 🌱 Currently exploring **Microservices Architecture** and **System Design**
+- ⚡ Fun fact: I leverage AI tools to code faster and smarter
 
 ---
 
@@ -37,22 +48,36 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🔧 Tools
+## 🔧 Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedabdullhaleam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedabdullhaleam&theme=tokyonight&hide_border=true&background=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedabdullhaleam&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedabdullhaleam&theme=radical&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedabdullhaleam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedabdullhaleam&layout=compact&theme=radical&hide_border=true&langs_count=8" width="45%"/>
 </p>
 
-<p align="center"><samp>Check out my repos ⬇️</samp></p>
+---
+
+### 🏆 Highlights
+
+- 🥇 **Best Innovation & 2nd Place** - Ever Competition "Al Alamein Festival" (2024)
+- 🎯 **Talabat Bootcamp** - System Design & Microservices Training (2025)
+- 📚 Built **10+ full-stack projects** including e-commerce, dashboards, and SaaS platforms
+- 🧑‍🏫 Former **Coding Instructor** teaching Java & programming fundamentals
+
+---
+
+<p align="center"><samp>💼 Open to collaborations and exciting opportunities · Check out my repos ⬇️</samp></p>
