@@ -67,12 +67,10 @@
 ---
 
 ### 🏆 Highlights
-
-- 🥇 **Best Innovation & 2nd Place** - Ever Competition "Al Alamein Festival" (2024)
-- 🎯 **Talabat Bootcamp** - System Design & Microservices Training (2025)
 - 📚 Built **10+ full-stack projects** including e-commerce, dashboards, and SaaS platforms
+- 🎯 **Talabat Bootcamp** - System Design & Microservices Training (2025)
 - 🧑‍🏫 Former **Coding Instructor** teaching Java & programming fundamentals
-
+- 🥇 **Best Innovation & 2nd Place** - Ever Competition "Al Alamein Festival" (2024)
 ---
 
 <p align="center"><samp>💼 Open to collaborations and exciting opportunities · Check out my repos ⬇️</samp></p>
