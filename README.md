@@ -20,7 +20,7 @@
 - 2+ years building production-ready web applications
 - Passionate about clean code, system design, and UX
 - Currently exploring **Microservices Architecture** and **System Design**
-- Fun fact: I leverage AI tools to code faster and smarter
+- I leverage AI tools to code faster and smarter
 
 ---
 
