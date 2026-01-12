@@ -56,21 +56,13 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <samp>✨ View my full GitHub profile for more details: <a href="https://github.com/Mohamedabdullhaleam">@Mohamedabdullhaleam</a></samp>
-</p>
-
----
 
 ### 🏆 Highlights
-- 📚 Built **10+ full-stack projects** including e-commerce, dashboards, and SaaS platforms
-- 🎯 **Talabat Bootcamp** - System Design & Microservices Training (2025)
-- 🧑‍🏫 Former **Coding Instructor** teaching Java & programming fundamentals
-- 🥇 **Best Innovation & 2nd Place** - Ever Competition "Al Alamein Festival" (2024)
+-  Built **10+ full-stack projects** including e-commerce, dashboards, and SaaS platforms
+-  **Talabat Bootcamp** - System Design & Microservices Training (2025)
+-  Former **Coding Instructor** teaching Java & programming fundamentals
+-  **Best Innovation & 2nd Place** - Ever Competition "Al Alamein Festival" (2024)
 ---
 
 <p align="center"><samp>💼 Open to collaborations and exciting opportunities · Check out my repos ⬇️</samp></p>
